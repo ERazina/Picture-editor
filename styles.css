@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    color: #ff0000;
+    margin: 20px;
+}
+.block{
+    width: 500px;
+    margin: 10px auto;
+    padding: 20px;
+    background-color:bisque;
+    border-radius: 17px;
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+#button{
+    width: 100px;
+    background: #ff0000;
+    border-radius: 17px;
+    padding: 5px;
+}
+input{
+    width: 60px;
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#fileInput{
+    width: 270px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+.left{
+    text-align: left;
+}
+span{
+    text-decoration:overline;
+}
